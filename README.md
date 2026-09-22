@@ -5,7 +5,7 @@ Software Developer | Java • Spring Boot • React • Next.js
 </h3>
 
 <p align="center">
-Building web applications, internal business tools, automation systems and SaaS products.
+I build web applications, internal tools and software for real business processes.
 </p>
 
 <p align="center">
@@ -22,28 +22,26 @@ Building web applications, internal business tools, automation systems and SaaS 
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Software Developer** focused on building practical software solutions for real-world business problems.
+I'm a software developer working mainly with **Java, Spring Boot, React, Next.js, TypeScript and PostgreSQL**.
 
-My primary stack includes **Java, Spring Boot, React, Next.js, TypeScript and PostgreSQL**.
+I build web applications, backend services and internal tools used in real business processes.
 
-I work on web applications, backend systems, internal business tools, e-commerce infrastructure, workflow automation and SaaS-oriented products.
+Most of my work focuses on turning day-to-day operational needs into practical software — from internal systems and reporting tools to e-commerce integrations and workflow automation.
 
-I particularly enjoy identifying operational problems and turning them into maintainable software solutions that simplify processes, improve efficiency and create measurable business value.
-
-* 🔭 Building web applications and internal business systems
-* ⚙️ Developing backend services and REST APIs with **Java & Spring Boot**
-* 💻 Building modern interfaces with **React, Next.js & TypeScript**
-* 🗄️ Working with relational databases and data-driven applications
-* 🔄 Interested in workflow automation and business process optimization
-* 🚀 Developing and exploring SaaS product ideas
-* 🤖 Using AI-assisted development tools as part of my software development workflow
-* 🌱 Continuously improving software architecture, testing and system design skills
+*  Backend development with **Java & Spring Boot**
+*  Frontend development with **React, Next.js & TypeScript**
+*  Database-driven applications with **PostgreSQL**
+*  REST APIs and third-party integrations
+*  Internal business tools and automation
+*  E-commerce and web-based business systems
+*  SaaS and product development
+*  AI-assisted development workflows
 
 ---
 
-## 🚀 Core Tech Stack
+## Core Tech Stack
 
 ### Backend
 
@@ -153,7 +151,7 @@ I particularly enjoy identifying operational problems and turning them into main
 
 ---
 
-## 🧩 Additional Experience
+## Additional Experience
 
 <p align="left">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
@@ -171,25 +169,24 @@ I particularly enjoy identifying operational problems and turning them into main
 
 **PHP • WordPress / WooCommerce • E-commerce Systems • Technical SEO • Figma**
 
-My background in e-commerce, technical SEO and digital operations helps me understand not only how software is built, but also how it supports real business processes, customers and commercial objectives.
+I also have hands-on experience with e-commerce, WordPress/WooCommerce and technical SEO.
 
 ---
 
-## 💡 Areas of Interest
+## Areas I Work On
 
-* SaaS Products
-* Business Software
 * Backend Development
 * Full-Stack Web Applications
 * Internal Business Tools
 * Workflow Automation
 * E-commerce Systems
-* Software Architecture
-* AI-Assisted Software Development
+* SaaS Products
+* API Integrations
+* AI-Assisted Development
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bilgehan-comert/" target="_blank">
@@ -203,9 +200,3 @@ My background in e-commerce, technical SEO and digital operations helps me under
 📫 **[bilgehancomert@gmail.com](mailto:bilgehancomert@gmail.com)**
 
 🌍 **https://bilgehancomert.dev**
-
----
-
-<p align="center">
-  <i>Building software around real business problems, not just features.</i>
-</p>
